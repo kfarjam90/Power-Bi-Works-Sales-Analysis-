@@ -69,4 +69,11 @@ This Power BI dashboard provides a comprehensive analysis of AdventureWorks' sal
 ### Notes
 - **Data Period**: January 2020 – June 2022.  
 - **Refresh Schedule**: Updated monthly.  
-- **Power BI Features Used**: DAX measures, drill-through, tooltips, and AI-driven key influencers.  
+- **Power BI Features Used**: DAX measures, drill-through, tooltips, and AI-driven key influencers.
+
+
+## 🔗 Additional Resources
+- **linkden**: [Karim Farjam's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/).
+- **Kaggle Notebook**: Interested in a Kaggle environment? Check out the notebook [here](https://www.kaggle.com/parhamfarjam).
+- **LinkedIn**: [Karim Farjam's Profile](https://www.linkedin.com/in/karim-farjam-a6b72549/)
+
