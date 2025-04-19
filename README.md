@@ -3,6 +3,8 @@
 ## Overview
 This Power BI dashboard provides a comprehensive analysis of AdventureWorks' sales performance, including revenue trends, product analytics, customer segmentation, and key business metrics. The report covers data from 2020 to 2022.
 
+![](image.png)
+
 ## Key Insights
 
 ### Financial Summary (Page 1)
